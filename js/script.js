@@ -41,134 +41,39 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "GabbyDoesnt",
                 rank: "Owner",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/gabby.png",
                 rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Owner",
-                skinUrlOrPathToFile: "",
-                rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Manager",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Moderator",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
+
         ],
         developers: [
             {
-                inGameName: "Astronavta",
+                inGameName: "xstym",
+                rank: "Head Developer",
+                skinUrlOrPathToFile: "images/xstym.png",
+                rankColor: ""
+            },
+            {
+                inGameName: "Theymon",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/theymonskin.png",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "DarkMyst",
                 rank: "Developer",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Webmaster",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Discord manager",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/dark.png",
                 rankColor: ""
             }
         ],
         helpers: [
             {
-                inGameName: "Astronavta",
-                rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
+                inGameName: "Lurzy",
                 rank: "Helper",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/lurzy.png",
                 rankColor: ""
             },
-            {
-                inGameName: "Astronavta",
-                rank: "Helper",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
-        ],
-        builders: [
-            {
-                inGameName: "Astronavta",
-                rank: "Builder++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder++",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder+",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
-                rank: "Builder",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            }
-        ]
-    },
-
     /*
     Contact form
     ------------
@@ -176,7 +81,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "admin@eclipze.xyz"
     }
 }
 
