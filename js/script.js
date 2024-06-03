@@ -43,7 +43,7 @@ const config = {
             {
                 inGameName: "GabbyDoesnt",
                 rank: "Owner",
-                skinUrlOrPathToFile: "images/gabby.png",
+                skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"}
 
         ],
@@ -51,19 +51,19 @@ const config = {
             {
                 inGameName: "xstym",
                 rank: "Head Developer",
-                skinUrlOrPathToFile: "images/xstym.png",
+                skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
                 inGameName: "Theymon",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/theymonskin.png",
+                skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
                 inGameName: "DarkMyst",
                 rank: "Developer",
-                skinUrlOrPathToFile: "images/dark.png",
+                skinUrlOrPathToFile: "",
                 rankColor: ""
             }
         ],
@@ -71,7 +71,7 @@ const config = {
             {
                 inGameName: "Lurzy",
                 rank: "Helper",
-                skinUrlOrPathToFile: "images/lurzy.png",
+                skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             ],
@@ -84,7 +84,7 @@ const config = {
     contactPage: {
         email: "admin@eclipze.xyz"
     }
-},}
+}}
 
 /*If you want to change website color go to /css/global.css and in :root {} is a color pallete (don't change names of variables, change only values)*/
 
