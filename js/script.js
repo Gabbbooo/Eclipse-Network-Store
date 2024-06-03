@@ -44,7 +44,7 @@ const config = {
                 inGameName: "GabbyDoesnt",
                 rank: "Owner",
                 skinUrlOrPathToFile: "images/gabby.png",
-                rankColor: "rgba(255, 3, 3, 1)"
+                rankColor: "rgba(255, 3, 3, 1)"}
 
         ],
         developers: [
@@ -74,6 +74,7 @@ const config = {
                 skinUrlOrPathToFile: "images/lurzy.png",
                 rankColor: ""
             },
+            ],
     /*
     Contact form
     ------------
@@ -83,7 +84,7 @@ const config = {
     contactPage: {
         email: "admin@eclipze.xyz"
     }
-}
+},}
 
 /*If you want to change website color go to /css/global.css and in :root {} is a color pallete (don't change names of variables, change only values)*/
 
