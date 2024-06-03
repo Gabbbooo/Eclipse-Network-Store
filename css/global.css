@@ -9,7 +9,7 @@
 
 :root {
   --main-font: 'Inter', sans-serif;
-  --main-color: #39BEFF;
+  --main-color: #c631ff;
   --background-color: #24272B;
   --white-color: #FFFFFF;
   --black-color: #000000;
@@ -19,8 +19,8 @@
   --ip-copied-background: rgba(74, 255, 107, 0.17);
   --ip-copied-icon-background: rgba(74, 255, 107, 0.5);
 
-  --copy-ip-button-background: rgba(57, 190, 255, 0.7);
-  --how-to-join-button-background: rgba(210, 208, 208, 0.2);
+  --copy-ip-button-background: rgba(198, 49, 255, 0.7);
+  --how-to-join-button-background: rgba(198, 49, 255, 0.2);
   --stats-background: rgba(210, 208, 208, 0.05);
   --stat-icon-background-2: rgba(57, 190, 255, 0.5);
 
