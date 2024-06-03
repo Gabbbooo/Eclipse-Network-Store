@@ -235,7 +235,7 @@
     position: absolute;
     bottom: -10px;
     left: 0;
-    width: 50px;
+    width: 180px;
     height: 3px;
     border-radius: 5px;
     background: var(--main-color);
@@ -335,7 +335,7 @@
     position: absolute;
     bottom: -9px;
     left: 0;
-    width: 150px;
+    width: 130px;
     height: 1px;
     border-radius: 5px;
     background: var(--description-color);
@@ -346,7 +346,7 @@
     position: absolute;
     bottom: -10px;
     left: 0;
-    width: 50px;
+    width: 130px;
     height: 3px;
     border-radius: 5px;
     background: var(--main-color);
@@ -455,7 +455,7 @@
     position: absolute;
     bottom: -10px;
     left: 0;
-    width: 50px;
+    width: 150px;
     height: 3px;
     border-radius: 5px;
     background: var(--main-color);
@@ -564,7 +564,7 @@
     position: absolute;
     bottom: -9px;
     left: 0;
-    width: 150px;
+    width: 190px;
     height: 1px;
     border-radius: 5px;
     background: var(--description-color);
@@ -575,7 +575,7 @@
     position: absolute;
     bottom: -10px;
     left: 0;
-    width: 50px;
+    width: 190px;
     height: 3px;
     border-radius: 5px;
     background: var(--main-color);
