@@ -50,7 +50,7 @@ const config = {
         ]
     },
     contactPage: {
-        email: "admin@eclipze.xyz"
+        email: "eclipsenetworkoriginal@gmail.com"
     }
 };
 
