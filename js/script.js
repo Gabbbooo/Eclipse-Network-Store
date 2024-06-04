@@ -29,7 +29,9 @@ const config = {
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "" 
-            },],
+            },
+        
+        ],
         developers: [
             {
                 inGameName: "Theymon",
