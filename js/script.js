@@ -8,6 +8,7 @@ const config = {
     userSKinTypeInAdminTeam: "bust",
     atGroupsDefaultColors: {
         leaders: "rgba(255, 124, 124, 0.5)",
+        managment: "rgba(255, 0, 0, 1)"'
         developers: "rgba(230, 83, 0, 0.5)",
         helpers: "rgba(11, 175, 255, 0.5)"
     },
@@ -15,18 +16,21 @@ const config = {
         leaders: [
             {
                 inGameName: "GabbyDoesnt",
-                rank: "Owner",
+                rank: "Founder",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             }
+            
         ],
-        developers: [
+        managment: [
+
             {
                 inGameName: "xstym",
-                rank: "Head Developer",
+                rank: "Owner",
                 skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
+                rankColor: "" 
+            },],
+        developers: [
             {
                 inGameName: "Theymon",
                 rank: "Developer",
